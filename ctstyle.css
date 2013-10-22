@@ -1,0 +1,153 @@
+
+.ctlabel {
+    display: inline-block;
+    float: left;
+    clear: left;
+    width:100px;
+    text-align: right;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+ .ctinput {
+  width: 250px;
+  display: inline-block;
+  float: left;
+  margin-bottom: 10px;
+  padding-right: 10px;
+}
+
+textarea {
+	height: 50px;	
+}
+ .ctsubmit {
+	width: 80px;
+	height: 80px;
+	
+	margin: 10px;
+}
+
+.ctsubmitbox {
+	margin-top 50px;
+	float: right;
+}
+
+ .ctaddform {
+ 	float: left;
+	width: 600px;
+	padding-top: 10px;
+}
+
+.ctleftcolumn {
+	float:left;
+}
+.ctrightcolumn {
+	margin-left: 50px;
+	float: left;
+	width: 100px;
+}
+
+.ctfeatureset {
+	float: left;
+	margin-left: 110px;
+	width: 260px;
+	padding-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.ctbutton {
+	float: right;
+	clear: both;	
+}
+
+#features_list {
+	 list-style-type: none;	
+	 width:380px;
+	 padding-left:20px;
+}
+
+.ctfeature {
+	width:450px;
+	height:30px;
+}
+
+.typelabel, .titlelabel   {
+	float:left;
+	font-weight: bold;
+	width:100px;
+	margin-right:5px;
+	background-color:#ff6600;
+	padding:5px;
+	color:black;
+}
+
+.valuelabel {
+	float:left;
+	font-weight: bold;
+	width:100px;
+	margin-right:5px;
+	background-color:#ff6600;
+	padding:5px;
+	color:black;
+}
+
+.removelabel {
+	float:left;
+	font-weight: bold;
+	width:25px;
+	margin-right:5px;
+	background-color:#ff6600;
+	padding:5px;
+	color:black;
+	text-align:center;
+}
+
+.ctnewtype, .ctnewfeaturetitle, .ctnewvalue {
+	float:left;
+	width:109px;
+	margin-right:5px;
+}
+
+
+
+.ctnewvaluelabel  {
+	float:left;
+	width:100px;
+	text-align:right;
+	margin-right:5px;
+
+}
+
+.ctfields {
+	width:400px;
+}
+
+#geobox {
+	position:relative;
+	left:25px;
+	top:0px;
+	width:280px;
+	height:280px;
+	border-style:solid;
+	border-width:5px;
+	border-color:black;
+	padding:5px;
+	visiblity:hidden;
+}
+
+#mapdone {
+	z-index:7;
+	width:100px;
+	left:200px;
+	top: 250px;
+	float:right;
+	margin-right:10px;
+}
+
+#geobox_bg {
+	background-color: #ff6600;
+	width:300px;
+	height:300px;
+	left:1000px;
+	top:1000px;
+}

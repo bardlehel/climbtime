@@ -1,0 +1,12 @@
+create aa meeting concept
+add the "add feature" autofill textbox
+create a new concept form  --has autofill category adding
+create view/edit concept form (ajax)
+create a mongodb collection for personal weights between concepts and categories that usurp global AVs
+
+
+
+NOTES:
+
+Features are anything that a concept "has"--its a boolean.
+Properties are features with data-types and has is_property = true
