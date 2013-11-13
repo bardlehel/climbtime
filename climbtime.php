@@ -3,7 +3,7 @@
 /*
 Plugin Name: Climbtime Concept Catalog
 Version: 1.0.1
-Author: Dorian White
+Author: Dorian White (Lehel Kovach)
 License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
 */
 
